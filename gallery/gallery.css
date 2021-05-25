@@ -1,0 +1,28 @@
+header{
+	font-size: : 40px;
+	font-family: 'Dokodo',cursive;
+	text-align: center;
+}
+
+.box{
+	display:all;
+	float:left;
+	width:40%;
+	padding:50px;
+	padding-left:250px;
+}
+
+main{
+	margin-left:30px;
+}
+
+img{
+	width:70%;
+	border-radius:20px;
+	size:20px;
+}
+
+img:hover{
+	transform: scale(2,2);
+	transition: .3s transition;
+}
